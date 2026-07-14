@@ -113,12 +113,6 @@ This project helped in understanding:
 
 ---
 
-## Screenshots
-
-_Add screenshots of the console output here._
-
----
-
 ## Author
 
 **Saifullah Mumtaz**
